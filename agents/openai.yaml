@@ -1,0 +1,4 @@
+interface:
+  display_name: "Machinery Shorts Editor"
+  short_description: "Machinery Shorts plus platform copy"
+  default_prompt: "Use $youtube-shorts-machinery-editor to edit a machinery Short from local materials and create matching YouTube, Instagram, and LinkedIn publishing copy."
